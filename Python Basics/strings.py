@@ -1,6 +1,6 @@
 name = 'Nandan'
 apple = '''He said,              
-"I want to eat an apple."'''  #For multiple lines we can use triple single quote also we can use single quote instead of double quote.
+"I want to eat an apple."'''  #For multiple lines we can use triple single quote, also we can use single quote instead of double quote.
 
 print(apple)
 
